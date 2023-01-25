@@ -1,4 +1,4 @@
-import Button from "./components/Button";
+import Button from "../components/Button";
 import { GoBell } from "react-icons/go";
 import Accordion from "../components/Accordion";
 
